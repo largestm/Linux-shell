@@ -1,6 +1,4 @@
 # Linux-shell
-
-# Linux shell
 shell脚本 循环执行请求
 
 ## 使用方法
